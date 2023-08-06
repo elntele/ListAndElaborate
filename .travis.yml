@@ -1,6 +1,6 @@
 os: linux
 language: android
-jdk: openjdk8
+jdk: openjdk17
 
 android:
   components:
