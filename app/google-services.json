@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "122683709024",
+    "project_id": "listandelaborate",
+    "storage_bucket": "listandelaborate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122683709024:android:cd740acef3f841667e9505",
+        "android_client_info": {
+          "package_name": "br.com.candeias.listandelaborate.goodMovieForTheLastNight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122683709024-sonqv1fnjhlrbs2uco7oaat8j47oidq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8en_g3EJwD7CwhguA1umgvKrmtkKpkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122683709024-sonqv1fnjhlrbs2uco7oaat8j47oidq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122683709024:android:a2864fcfafab082c7e9505",
+        "android_client_info": {
+          "package_name": "br.com.candeias.listandelaborate.wetherSearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122683709024-sonqv1fnjhlrbs2uco7oaat8j47oidq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8en_g3EJwD7CwhguA1umgvKrmtkKpkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122683709024-sonqv1fnjhlrbs2uco7oaat8j47oidq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
