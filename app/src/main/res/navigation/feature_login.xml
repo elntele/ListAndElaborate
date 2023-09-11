@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/feature_login" />
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/feature_login"
+    app:startDestination="@id/itinitialScreem">
+    <fragment
+        android:id="@+id/itinitialScreem"
+        android:name="br.com.candeias.listandelaborate.beginscreem.ItinitialScreen"
+        android:label="fragment_itinitial_screem"
+        tools:layout="@layout/fragment_itinitial_screen" />
+</navigation>
