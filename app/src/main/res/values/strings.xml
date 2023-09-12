@@ -6,6 +6,7 @@
     <string name="login_button">Login</string>
     <string name="register_button">Registrar</string>
     <string name="quit_button">Sair</string>
+    <string name="cancel_button">Cancelar</string>
 
 
 </resources>

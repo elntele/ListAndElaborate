@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="TopLabelColor">#006400</color>
+    <color name="backShapeTextColor1">#ffff</color>
+    <color name="backShapeTextColor2">#878787</color>
 </resources>
